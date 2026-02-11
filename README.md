@@ -25,9 +25,9 @@ The system implements several design patterns:
 
 The UML diagram of the system shows class relationships and design patterns usage:
 
-![UML Diagram](../src/UML.png)
+![UML Diagram](./src/UML.png)
 
-You can also view the UML diagram [here](../src/UML.png) in the repository.
+You can also view the UML diagram [here](./src/UML.png) in the repository.
 
 ---
 
@@ -59,8 +59,8 @@ You can also view the UML diagram [here](../src/UML.png) in the repository.
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd gift-factory
+git clone <[repository-url](https://github.com/Lylyss97x/Gift_Factory/)>
+cd Gift_Factory/files
 ```
 
 2. Ensure all Python files are in the same directory.
@@ -100,5 +100,6 @@ python Interface.py
 
 
 ## Contributors
+
 
 - Lylyss97x
