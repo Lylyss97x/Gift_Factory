@@ -59,7 +59,7 @@ You can also view the UML diagram [here](./src/UML.png) in the repository.
 1. Clone the repository:
 
 ```bash
-git clone <[repository-url](https://github.com/Lylyss97x/Gift_Factory/)>
+git clone https://github.com/Lylyss97x/Gift_Factory.git
 cd Gift_Factory/files
 ```
 
@@ -103,3 +103,4 @@ python Interface.py
 
 
 - Lylyss97x
+
